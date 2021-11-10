@@ -1,0 +1,16 @@
+{
+  "name": "meetingroom",
+  "version": "1.0.0",
+  "description": "An app to book meetings",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Bhagyashree Rao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.12"
+  }
+}
